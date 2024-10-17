@@ -1,0 +1,8 @@
+Requirements
+Python 3.x: The programming language used.
+Libraries:
+numpy: For numerical operations.
+pandas: For data manipulation and analysis.
+scikit-learn: For machine learning algorithms.
+matplotlib: For data visualization.
+seaborn: For enhanced visualization.
